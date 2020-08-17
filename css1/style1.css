@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  font-size: 5.62rem;
+  font-family: 'Sacramento', cursive;
+margin: 50px auto 0 auto;
+  color: #66BFBF;
+
+}
+
+h2{
+    font-size:2.5rem;
+  font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+  font-weight: bold;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+
+}
+
+
+
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color: #66bfbf;
+
+}
+.underline{
+  text-decoration: underline;
+}
+.top-cloud{
+
+  position: absolute;
+top: 50px;
+  left: 840px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  top: 400px;
+}
+
+.my-image{
+  margin-top: 8%;
+  height:200px;
+  width: 200px;
+}
+
+/*           for book and rest of thing*/
+.book{
+  height: 300px;
+  width:300px;
+}
+.worker{
+  height: 250px;
+  width:250px;
+}
+.footer-link{
+  font-size: 1.0rem;
+  color:  #11999E;
+  margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+    font-weight: normal;
+}
+.test:hover{
+  color: white;
+
+}
+/*                        skills row*/
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.worker{
+  width: 30%;
+  float: left;
+  margin: auto 35px auto auto;
+}
+.book{
+  width:35%;
+  height: 35%;
+  float: right;
+  margin-left: 35px;
+}
+.peragraph-first{
+
+    color:#40514e;
+}
+.copyright-color{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  line-height: 2;
+}
+
+
+  .hr-modify{
+
+    border-top: 6px dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.hr2-modify{
+  border-top: 6px dotted #eaf6f6;
+  width: 4%;
+  margin-left: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-bottom: none;
+}
+.bat{
+  background-color: #11cdd4;
+border-radius: 8px;
+
+ color: white;
+ padding: 10px 20px 10px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 20px;
+ margin: 50px 20px 100px 20px;
+ cursor: pointer;
+ font-family: 'Montserrat', sans-serif;
+}
+.bat:hover{
+  background-color: #30e3cb;
+}
